@@ -1,0 +1,13 @@
+{
+    "name": "Portfolio",
+    "version": "1.0.0",
+    "description": "Projeto HTML, CSS e JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server"
+    },
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
+  
